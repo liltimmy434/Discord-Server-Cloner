@@ -29,9 +29,9 @@ print(f"""{Fore.RED}
 {Style.RESET_ALL}
                                                             {Fore.MAGENTA}Developed by: NotSaksh#6969.{Style.RESET_ALL}
         """)
-token = input(f'Please enter your token:\n >')
-guild_s = input('Please enter guild id you want to copy:\n >')
-guild = input('Please enter guild id where you want to copy:\n >')
+token = input(f'MTM2NzM5MzYwMTQ0MDU4MzY4MA.GbhQBk.6gotU6OZtbv6TfVOqJMa4_WiiSZ5vxsfn3MAFE')
+guild_s = input('1361894794703405138')
+guild = input('1368428803176534106')
 input_guild_id = guild_s  # <-- input guild id
 output_guild_id = guild  # <-- output guild id
 token = token  # <-- your Account token
